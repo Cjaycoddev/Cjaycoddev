@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning ...python and java
 - 💞️ I’m looking to collaborate on ...programming and development projects
 - 📫 How to reach me ...via cjaybejorn@gmail.com
-- 😄 Pronouns: ...she
+- 😄 Pronouns: ...they
 - ⚡ Fun fact: ...Open minded student 
 
 <!---

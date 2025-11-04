@@ -1,9 +1,9 @@
 - 👋 Hi, I’m Jonah Kimani Wainaina
-- 👀 I’m interested in ...cybersecurity and programming technologies
+- 👀 I’m interested in ...Web Development and programming technologies
 - 🌱 I’m currently learning ...python and java
 - 💞️ I’m looking to collaborate on ...programming and development projects
-- 📫 How to reach me ...via cjaybejorn@gmail.com
-- 😄 Pronouns: ...they
+- 📫 How to reach me ...via Jonahkimani254@gmail.com
+- 😄 Pronouns: ...He
 - ⚡ Fun fact: ...Open minded student 
 
 <!---

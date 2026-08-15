@@ -2,7 +2,7 @@
 - 👀 I’m interested in ...Web Development and programming technologies
 - 🌱 I’m currently learning ...python and java
 - 💞️ I’m looking to collaborate on ...programming and development projects
-- 📫 How to reach me ...via Jonahkimani254@gmail.com
+- 📫 How to reach me ...via Jonahkimwainaina@gmail.com
 - 😄 Pronouns: ...He
 - ⚡ Fun fact: ...Open minded student 
 

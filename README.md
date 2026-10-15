@@ -1,11 +1,11 @@
 <div align="center">
 
 <!-- ═══════════════════════════════════════════════════════════ -->
-<!--  FUTURISTIC HERO — gradient wave + terminal boot sequence   -->
+<!--  FUTURISTIC HERO — gradient wave banner                     -->
 <!-- ═══════════════════════════════════════════════════════════ -->
 
 <a href="https://github.com/Cjaycoddev">
-  <img width="100%" alt="Header" src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,25:0A0A0A,50:C9A961,75:0A0A0A,100:000000&height=240&section=header&text=%5B%20JONAH%20KIMANI%20%5D&fontSize=60&fontColor=F5F5F5&fontAlignY=38&animation=twinkling&desc=%3E%3E%20Full-Stack%20Developer%20%7C%20Nairobi%2C%20Kenya%20%7C%20Building%20the%20future&descAlignY=60&descSize=15&descColor=C9A961" alt="Header banner" />
+  <img width="100%" alt="Header" src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,25:0A0A0A,50:C9A961,75:0A0A0A,100:000000&height=240&section=header&text=%5B%20JONAH%20KIMANI%20%5D&fontSize=60&fontColor=F5F5F5&fontAlignY=38&animation=twinkling&desc=%3E%3E%20Full-Stack%20Developer%20%7C%20IT%20Specialist%20%7C%20Nairobi%2C%20Kenya&descAlignY=60&descSize=15&descColor=C9A961" alt="Header banner" />
 </a>
 
 </div>
@@ -26,10 +26,12 @@
 │                                                             │
 │  $ cat /etc/profile.json                                    │
 │  {                                                          │
-│    "role":       "Full-Stack Developer"                     │
+│    "role":       "Full-Stack Developer + IT Specialist"     │
 │    "location":   "Nairobi, Kenya"                           │
-│    "focus":      ["Automotive", "Fintech", "SaaS"]          │
-│    "philosophy": "Ship fast. Ship clean. Ship with purpose."│
+│    "focus":      ["Web", "Android", "IT Infrastructure"]    │
+│    "degree":     "BSc. Information Technology"              │
+│    "philosophy": "Behind every clean line of code is a      │
+│                   spark of imagination."                    │
 │  }                                                          │
 │                                                             │
 │  $ █                                                        │
@@ -38,55 +40,36 @@
 
 <div align="center">
 
-<!-- ═══════════════════════════════════════════════════════════ -->
-<!--  ANIMATED TERMINAL TYPING                                   -->
-<!-- ═══════════════════════════════════════════════════════════ -->
-
+<!-- ANIMATED TERMINAL TYPING -->
 <a href="https://github.com/Cjaycoddev">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&duration=2200&pause=700&color=C9A961&center=true&vCenter=true&width=720&height=45&lines=%3E+Initializing+profile...;%3E+Loading+tech+stack...;%3E+Compiling+projects...;%3E+Ready+to+ship+%F0%9F%9A%80" alt="Terminal typing animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&duration=2200&pause=700&color=C9A961&center=true&vCenter=true&width=760&height=45&lines=%3E+Initializing+profile...;%3E+Loading+tech+stack...;%3E+Compiling+projects...;%3E+Ready+to+ship+%F0%9F%9A%80" alt="Terminal typing animation" />
 </a>
 
 <br /><br />
 
-<!-- ═══════════════════════════════════════════════════════════ -->
-<!--  HUD STATUS BAR                                             -->
-<!-- ═══════════════════════════════════════════════════════════ -->
-
+<!-- HUD STATUS BAR -->
 <p>
   <img src="https://img.shields.io/badge/●_SYSTEM_ONLINE-2ea44f?style=for-the-badge&labelColor=0A0A0A" alt="System online" />
   <img src="https://img.shields.io/badge/●_BUILDING-C9A961?style=for-the-badge&labelColor=0A0A0A" alt="Building" />
   <img src="https://img.shields.io/badge/●_SHIPPING-58A6FF?style=for-the-badge&labelColor=0A0A0A" alt="Shipping" />
-  <img src="https://img.shields.io/badge/●_KE-000000?style=for-the-badge&labelColor=0A0A0A" alt="Kenya" />
+  <img src="https://img.shields.io/badge/●_NAIROBI_KE-000000?style=for-the-badge&labelColor=0A0A0A" alt="Kenya" />
 </p>
 
 <br />
 
 <!-- ═══════════════════════════════════════════════════════════ -->
-<!--  NEON CONNECT BADGES                                        -->
+<!--  CONNECT — text links, guaranteed clickable                 -->
 <!-- ═══════════════════════════════════════════════════════════ -->
 
-<p>
-  <a href="https://jonahkimani.vercel.app" target="_blank">
-    <img src="https://img.shields.io/badge/▶_PORTFOLIO-VISIT-C9A961?style=for-the-badge&labelColor=0A0A0A" alt="Portfolio" />
-  </a>
-  <a href="https://www.linkedin.com/in/jonah-kimani-wainaina-4557a52b0/" target="_blank">
-    <img src="https://img.shields.io/badge/▶_LINKEDIN-CONNECT-0A66C2?style=for-the-badge&labelColor=0A0A0A" alt="LinkedIn" />
-  </a>
-  <a href="mailto:Jonahkimwainaina@gmail.com">
-    <img src="https://img.shields.io/badge/▶_EMAIL-SEND-EA4335?style=for-the-badge&labelColor=0A0A0A" alt="Email" />
-  </a>
-</p>
+### 🌐 Connect
 
-<!-- Fallback: visible, copyable contact info -->
-<p>
-  <sub>
-    📧 <strong>Jonahkimwainaina@gmail.com</strong>
-    &nbsp;·&nbsp;
-    💼 <a href="https://www.linkedin.com/in/jonah-kimani-wainaina-4557a52b0/">LinkedIn</a>
-    &nbsp;·&nbsp;
-    🌐 <a href="https://jonahkimani.vercel.app">Portfolio</a>
-  </sub>
-</p>
+[**Portfolio**](https://jonahkimani.vercel.app) &nbsp;·&nbsp; [**LinkedIn**](https://www.linkedin.com/in/jonah-kimani-wainaina-4557a52b0/) &nbsp;·&nbsp; [**Email Me**](mailto:Jonahkimwainaina@gmail.com) &nbsp;·&nbsp; [**GitHub**](https://github.com/Cjaycoddev)
+
+<br />
+
+📧 **Jonahkimwainaina@gmail.com**
+
+<br />
 
 <p>
   <img src="https://komarev.com/ghpvc/?username=Cjaycoddev&label=PROFILE+VIEWS&color=C9A961&style=for-the-badge" alt="Profile views" />
@@ -101,49 +84,212 @@
 
 ```javascript
 const jonah = {
-  role: "Full-Stack Developer",
+  role: "Full-Stack Developer & IT Specialist",
   location: "Nairobi, Kenya 🇰🇪",
-  focus: ["Web Apps", "Fintech", "SaaS", "Automotive Tech"],
+  education: "BSc. Information Technology — Kenyatta University (2025)",
+  certifications: ["CCNA (2022)", "Full-Stack Web Development (2024)"],
+  focus: ["Web Apps", "Android", "IT Infrastructure", "AI Integration"],
   currentProject: "VELOCE BESPOKE KENYA — premium automotive platform",
-  learning: ["System Design", "Cloud Architecture", "DevOps"],
-  philosophy: "Ship fast. Ship clean. Ship something users love.",
+  learning: ["System Design", "Cloud Architecture", "AI & Automation"],
+  philosophy: "Behind every clean line of code is a spark of imagination.",
   funFact: "I debug faster with a cup of Kenyan coffee ☕",
 };
 ```
 
+I'm a passionate IT professional and full-stack developer with a strong focus on creating seamless digital experiences. My journey in technology spans **web & mobile app development**, **backend engineering**, **UI/UX design**, and **IT infrastructure management**.
+
+I specialize in **Web and Android development**, building scalable applications that blend performance with great user experience. Beyond coding, I'm deeply curious about emerging technologies like **AI integration**, **automation**, and **cloud computing** — constantly pushing myself to stay ahead in the tech landscape.
+
 - 🔭 Currently building **premium web experiences** with **Next.js + TypeScript**
 - 🌱 Deepening my skills in **system design** and **cloud infrastructure**
 - 👯 Open to collaborate on **open-source** and **Kenyan tech** projects
-- 💬 Ask me about **React**, **Next.js**, **Node.js**, or **anything web**
+- 💬 Ask me about **React**, **Django**, **Node.js**, **Android**, or **IT infrastructure**
 - ⚡ Fun fact: **I think in components and dream in dark mode** 🌙
 
 ---
 
-## 🛠️ Tech Stack
+## 🎓 Education & Certifications
+
+<table>
+  <tr>
+    <td width="33%" align="center">
+      <h3>🎓 BSc. Information Technology</h3>
+      <p><strong>Kenyatta University</strong></p>
+      <p><code>2025</code></p>
+    </td>
+    <td width="33%" align="center">
+      <h3>🌐 CCNA</h3>
+      <p><strong>Certified Network Associate</strong></p>
+      <p>Alison Academy · <code>2022</code></p>
+    </td>
+    <td width="33%" align="center">
+      <h3>💻 Full-Stack Development</h3>
+      <p><strong>FreeCodeCamp / Udemy</strong></p>
+      <p><code>2024</code></p>
+    </td>
+  </tr>
+</table>
+
+---
+
+## ⚡ Tech Stack
 
 <div align="center">
 
 ### **Languages**
 <p>
-  <img src="https://skillicons.dev/icons?i=js,ts,python,html,css&theme=dark" alt="Languages" />
+  <img src="https://skillicons.dev/icons?i=js,ts,python,java,c,cpp,html,css&theme=dark" alt="Languages" />
 </p>
 
-### **Frontend**
+### **Frontend & Mobile**
 <p>
-  <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,redux,framer&theme=dark" alt="Frontend" />
+  <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,vite,androidstudio,kotlin,figma&theme=dark" alt="Frontend" />
 </p>
 
 ### **Backend & Databases**
 <p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,postgres,prisma,firebase&theme=dark" alt="Backend" />
+  <img src="https://skillicons.dev/icons?i=django,nodejs,express,mysql,postgres,mongodb,sqlite,firebase&theme=dark" alt="Backend" />
 </p>
 
-### **Tools & Platforms**
+### **Dev Tools & Platforms**
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,vercel,figma,postman,docker,linux&theme=dark" alt="Tools" />
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,visualstudio,postman,bash,linux,ubuntu,docker,vercel&theme=dark" alt="Tools" />
+</p>
+
+### **Design & UI/UX**
+<p>
+  <img src="https://skillicons.dev/icons?i=figma,photoshop,illustrator,canva&theme=dark" alt="Design" />
 </p>
 
 </div>
+
+---
+
+## 🧠 Core Competencies
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+
+### 🛠️ IT Support & Infrastructure
+- IT Support & User Assistance
+- Hardware & Software Troubleshooting
+- Network Troubleshooting
+- System Maintenance & Administration
+- LAN/WAN Setup
+- Biometric Systems & Authentication
+
+    </td>
+    <td width="50%" valign="top">
+
+### 💾 Data & Systems
+- Database Management & Data Integrity
+- Information Systems & Digital Operations
+- Microsoft Excel & Data Analysis
+- Technical Documentation & Reporting
+- Client & Stakeholder Support
+- Git & Version Control
+
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+
+### 🌐 Web Development
+- React, Tailwind CSS, Vite
+- Responsive Design
+- Django, Node.js, Express.js
+- RESTful APIs
+
+    </td>
+    <td width="50%" valign="top">
+
+### 🤖 Additional
+- AI & Automation Integration
+- System Maintenance & Troubleshooting
+- Version Control (Git, GitHub)
+- API Testing (Postman)
+
+    </td>
+  </tr>
+</table>
+
+---
+
+## 💻 Detailed Skill Breakdown
+
+<details>
+<summary><b>👨‍💻 Programming Languages</b></summary>
+
+<br />
+
+| Language | Proficiency | Use Cases |
+|---|---|---|
+| **JavaScript (ES6+)** | Advanced | Web apps, Node.js backends |
+| **Python** | Advanced | Django, automation, scripting |
+| **Java** | Intermediate | Android development |
+| **C / C++** | Intermediate | Systems, algorithms |
+| **Prolog** | Familiar | Logic programming, AI |
+| **HTML5 / CSS3** | Advanced | Web structure & styling |
+
+</details>
+
+<details>
+<summary><b>🎨 Frontend Development</b></summary>
+
+<br />
+
+| Technology | Use |
+|---|---|
+| **React** | Component-based UIs, SPAs |
+| **Tailwind CSS** | Utility-first styling |
+| **Vite** | Fast build tooling |
+| **Responsive Design** | Mobile-first layouts |
+
+</details>
+
+<details>
+<summary><b>⚙️ Backend & Databases</b></summary>
+
+<br />
+
+| Technology | Use |
+|---|---|
+| **Django** | Python web framework |
+| **Node.js / Express.js** | JavaScript backends |
+| **RESTful APIs** | Service communication |
+| **MySQL / PostgreSQL** | Relational databases |
+| **MongoDB / SQLite** | NoSQL & embedded |
+| **Firebase** | Realtime backend |
+
+</details>
+
+<details>
+<summary><b>🛠️ Dev Tools & Version Control</b></summary>
+
+<br />
+
+**Git · GitHub · VS Code · Postman · Bash · Linux · Ubuntu · Docker · Vercel**
+
+</details>
+
+<details>
+<summary><b>🎨 Design & UI/UX</b></summary>
+
+<br />
+
+**Figma · Adobe Photoshop · Adobe Illustrator · Canva · UX Wireframing · Prototyping · Filmora Wondershare**
+
+</details>
+
+<details>
+<summary><b>📱 Android Development</b></summary>
+
+<br />
+
+**Android Studio · Java · Kotlin · Firebase · XML Layouts · Material Design**
+
+</details>
 
 ---
 
@@ -183,31 +329,15 @@ const jonah = {
 
 ---
 
-## 🐍 Watch My Contributions Get Eaten
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/Cjaycoddev/Cjaycoddev/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
-
-</div>
-
-> **Note:** The snake animation above requires a one-time GitHub Action setup in your profile repo.  
-> See instructions [below](#-enable-the-snake-animation-optional).
-
----
-
 ## 🎯 Featured Projects
 
-<div align="center">
+### 🏁 VELOCE BESPOKE KENYA
+> Premium automotive dealership platform built for the Kenyan market.
 
 <a href="https://github.com/Cjaycoddev/veloce-bespoke-kenya">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Cjaycoddev&repo=veloce-bespoke-kenya&theme=dark&bg_color=0A0A0A&title_color=C9A961&icon_color=C9A961&text_color=F5F5F5&border_color=262626" alt="VELOCE BESPOKE KENYA" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Cjaycoddev&repo=veloce-bespoke-kenya&theme=dark&bg_color=0A0A0A&title_color=C9A961&icon_color=C9A961&text_color=F5F5F5&border_color=262626" alt="VELOCE BESPOKE KENYA" />
 </a>
 
-</div>
-
-### 🏁 VELOCE BESPOKE KENYA
-A premium automotive dealership platform built for the Kenyan market.  
 **Stack:** Next.js · TypeScript · Tailwind CSS · Framer Motion  
 **Highlights:** Financing calculator, import duty calculator, WhatsApp-native conversion flow
 
@@ -215,19 +345,49 @@ A premium automotive dealership platform built for the Kenyan market.
 
 ---
 
+### 🔍 FindMe — Missing Persons Web App
+> Real-time web application that helps reunite missing and found individuals with their families.
+
+**Stack:** Django · React · MySQL · REST API · AI Face Recognition  
+**Highlights:** AI-powered face matching, live updates, real-time notifications
+
+---
+
+### 🏭 Industrial Express — E-Commerce Platform
+> Full-featured e-commerce web app for selling industrial products.
+
+**Stack:** React · Node.js · MongoDB · Express · Stripe API  
+**Highlights:** Secure payments, smart inventory management, modern UI
+
+---
+
+### 🏨 HotelEase — Hotel Management System
+> Hotel management solution that simplifies booking, order processing, and staff coordination.
+
+**Stack:** Django · React · PostgreSQL · TailwindCSS · WebSockets  
+**Highlights:** Real-time room tracking, automated reports, staff coordination
+
+---
+
 ## 💡 What I'm Working On
 
 <table align="center">
   <tr>
-    <td align="center" width="50%">
+    <td align="center" width="25%">
       <h3>🚗 Automotive Tech</h3>
-      <p>Building digital experiences for Kenya's automotive industry</p>
-      <img src="https://img.shields.io/badge/Status-Active-C9A961?style=flat-square" />
+      <p>Digital experiences for Kenya's automotive industry</p>
     </td>
-    <td align="center" width="50%">
+    <td align="center" width="25%">
       <h3>💰 Fintech Tools</h3>
-      <p>Exploring payments, wallets, and financial products for Africa</p>
-      <img src="https://img.shields.io/badge/Status-Exploring-2ea44f?style=flat-square" />
+      <p>Payments, wallets & financial products for Africa</p>
+    </td>
+    <td align="center" width="25%">
+      <h3>🤖 AI Integration</h3>
+      <p>AI-powered features for real-world applications</p>
+    </td>
+    <td align="center" width="25%">
+      <h3>☁️ Cloud & DevOps</h3>
+      <p>Scalable deployments & infrastructure</p>
     </td>
   </tr>
 </table>
@@ -238,28 +398,23 @@ A premium automotive dealership platform built for the Kenyan market.
 
 <div align="center">
 
-<p>
-  <a href="https://jonahkimani.vercel.app">
-    <img src="https://img.shields.io/badge/🌐_Portfolio-Visit-C9A961?style=for-the-badge&labelColor=0A0A0A" alt="Portfolio" />
-  </a>
-  <a href="https://www.linkedin.com/in/jonah-kimani-wainaina-4557a52b0/">
-    <img src="https://img.shields.io/badge/💼_LinkedIn-Connect-0A66C2?style=for-the-badge&labelColor=0A0A0A" alt="LinkedIn" />
-  </a>
-  <a href="mailto:Jonahkimwainaina@gmail.com">
-    <img src="https://img.shields.io/badge/✉️_Email-Send-EA4335?style=for-the-badge&labelColor=0A0A0A" alt="Email" />
-  </a>
-</p>
-
-<!-- Visible, copyable email fallback -->
-<p>
-  <sub>
-    📧 <strong>Jonahkimwainaina@gmail.com</strong>
-  </sub>
-</p>
+### Ready to build something great? Let's talk.
 
 <br />
 
-### _"Code is poetry. Ship something beautiful today."_
+[![Portfolio](https://img.shields.io/badge/🌐_PORTFOLIO-Visit-C9A961?style=for-the-badge&labelColor=0A0A0A)](https://jonahkimani.vercel.app)
+[![LinkedIn](https://img.shields.io/badge/💼_LINKEDIN-Connect-0A66C2?style=for-the-badge&labelColor=0A0A0A)](https://www.linkedin.com/in/jonah-kimani-wainaina-4557a52b0/)
+[![Email](https://img.shields.io/badge/✉️_EMAIL-Send-EA4335?style=for-the-badge&labelColor=0A0A0A)](mailto:Jonahkimwainaina@gmail.com)
+
+<br />
+
+📧 **Jonahkimwainaina@gmail.com**  
+🌐 [jonahkimani.vercel.app](https://jonahkimani.vercel.app)  
+💼 [LinkedIn Profile](https://www.linkedin.com/in/jonah-kimani-wainaina-4557a52b0/)
+
+<br />
+
+### _"Behind every clean line of code is a spark of imagination."_
 
 <br />
 
@@ -267,66 +422,7 @@ A premium automotive dealership platform built for the Kenyan market.
 
 </div>
 
----
 
-<!-- ============================================================ -->
-<!-- OPTIONAL SETUP: SNAKE ANIMATION                              -->
-<!-- ============================================================ -->
-
-## 🐍 Enable the Snake Animation (Optional)
-
-The snake animation is a nice touch that "eats" your contribution graph. It requires a one-time GitHub Action.
-
-### Step 1: Create the workflow file
-
-In your profile repo (`Cjaycoddev/Cjaycoddev`), create:
-
-**`.github/workflows/snake.yml`**
-
-```yaml
-name: Generate Snake
-
-on:
-  schedule:
-    - cron: "0 0 * * *"
-  workflow_dispatch:
-  push:
-    branches:
-      - main
-
-jobs:
-  generate:
-    runs-on: ubuntu-latest
-    permissions:
-      contents: write
-    steps:
-      - name: Generate snake
-        uses: Platane/snk/svg-only@v3
-        with:
-          github_user_name: Cjaycoddev
-          outputs: |
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark&color_snake=C9A961
-      - name: Push to output branch
-        uses: crazy-max/ghaction-github-pages@v3.1.0
-        with:
-          target_branch: output
-          build_dir: dist
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-```
-
-### Step 2: Run it once
-
-1. Go to your repo → **Actions** tab
-2. Click **Generate Snake** → **Run workflow** → **Run workflow**
-3. Wait ~30 seconds
-4. Refresh the README — the snake animation appears
-
-If you'd rather skip this, just delete the "Watch My Contributions Get Eaten" section from the README.
-
----
-
-<div align="center">
 
 **⭐ If you like what you see, star a repo or reach out!**
 

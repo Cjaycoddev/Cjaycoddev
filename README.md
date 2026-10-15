@@ -1,39 +1,96 @@
 <div align="center">
 
-<!-- Animated typing header -->
+<!-- ═══════════════════════════════════════════════════════════ -->
+<!--  FUTURISTIC HERO — gradient wave + terminal boot sequence   -->
+<!-- ═══════════════════════════════════════════════════════════ -->
+
 <a href="https://github.com/Cjaycoddev">
-  <img src="https://readme-typing-svg.demolab.com?font=Outfit&weight=300&size=32&duration=3000&pause=1000&color=C9A961&center=true&vCenter=true&multiline=true&width=800&height=100&lines=Hi%2C+I'm+Jonah+Kimani+Wainaina;Full-Stack+Developer+%7C+Builder;Turning+ideas+into+shipped+products" alt="Typing SVG" />
+  <img width="100%" alt="Header" src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,25:0A0A0A,50:C9A961,75:0A0A0A,100:000000&height=240&section=header&text=%5B%20JONAH%20KIMANI%20%5D&fontSize=60&fontColor=F5F5F5&fontAlignY=38&animation=twinkling&desc=%3E%3E%20Full-Stack%20Developer%20%7C%20Nairobi%2C%20Kenya%20%7C%20Building%20the%20future&descAlignY=60&descSize=15&descColor=C9A961" alt="Header banner" />
 </a>
+
+</div>
 
 <br />
 
-<!-- Wave animation -->
-<img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="35px" alt="wave" />
+<!-- ═══════════════════════════════════════════════════════════ -->
+<!--  TERMINAL BOOT SEQUENCE                                     -->
+<!-- ═══════════════════════════════════════════════════════════ -->
+
+```console
+┌─────────────────────────────────────────────────────────────┐
+│  ● SYSTEM ONLINE                               ◉ OPEN TO WORK │
+├─────────────────────────────────────────────────────────────┤
+│                                                             │
+│  $ whoami                                                   │
+│  > Jonah Kimani Wainaina                                    │
+│                                                             │
+│  $ cat /etc/profile.json                                    │
+│  {                                                          │
+│    "role":       "Full-Stack Developer"                     │
+│    "location":   "Nairobi, Kenya"                           │
+│    "focus":      ["Automotive", "Fintech", "SaaS"]          │
+│    "philosophy": "Ship fast. Ship clean. Ship with purpose."│
+│  }                                                          │
+│                                                             │
+│  $ █                                                        │
+└─────────────────────────────────────────────────────────────┘
+```
+
+<div align="center">
+
+<!-- ═══════════════════════════════════════════════════════════ -->
+<!--  ANIMATED TERMINAL TYPING                                   -->
+<!-- ═══════════════════════════════════════════════════════════ -->
+
+<a href="https://github.com/Cjaycoddev">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&duration=2200&pause=700&color=C9A961&center=true&vCenter=true&width=720&height=45&lines=%3E+Initializing+profile...;%3E+Loading+tech+stack...;%3E+Compiling+projects...;%3E+Ready+to+ship+%F0%9F%9A%80" alt="Terminal typing animation" />
+</a>
 
 <br /><br />
 
-<!-- Short bio -->
+<!-- ═══════════════════════════════════════════════════════════ -->
+<!--  HUD STATUS BAR                                             -->
+<!-- ═══════════════════════════════════════════════════════════ -->
+
 <p>
-  <em>Building fast, clean, user-focused software from Nairobi, Kenya 🇰🇪</em>
+  <img src="https://img.shields.io/badge/●_SYSTEM_ONLINE-2ea44f?style=for-the-badge&labelColor=0A0A0A" alt="System online" />
+  <img src="https://img.shields.io/badge/●_BUILDING-C9A961?style=for-the-badge&labelColor=0A0A0A" alt="Building" />
+  <img src="https://img.shields.io/badge/●_SHIPPING-58A6FF?style=for-the-badge&labelColor=0A0A0A" alt="Shipping" />
+  <img src="https://img.shields.io/badge/●_KE-000000?style=for-the-badge&labelColor=0A0A0A" alt="Kenya" />
 </p>
 
-<!-- Social badges -->
+<br />
+
+<!-- ═══════════════════════════════════════════════════════════ -->
+<!--  NEON CONNECT BADGES                                        -->
+<!-- ═══════════════════════════════════════════════════════════ -->
+
 <p>
   <a href="https://jonahkimani.vercel.app" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-jonahkimani.vercel.app-C9A961?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
+    <img src="https://img.shields.io/badge/▶_PORTFOLIO-VISIT-C9A961?style=for-the-badge&labelColor=0A0A0A" alt="Portfolio" />
   </a>
   <a href="https://www.linkedin.com/in/jonah-kimani-wainaina-4557a52b0/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Jonah%20Kimani-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/▶_LINKEDIN-CONNECT-0A66C2?style=for-the-badge&labelColor=0A0A0A" alt="LinkedIn" />
   </a>
   <a href="mailto:Jonahkimwainaina@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Jonahkimwainaina%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+    <img src="https://img.shields.io/badge/▶_EMAIL-SEND-EA4335?style=for-the-badge&labelColor=0A0A0A" alt="Email" />
   </a>
 </p>
 
+<!-- Fallback: visible, copyable contact info -->
 <p>
-  <img src="https://komarev.com/ghpvc/?username=Cjaycoddev&label=Profile%20views&color=C9A961&style=for-the-badge" alt="Profile views" />
-  <img src="https://img.shields.io/github/followers/Cjaycoddev?label=Followers&style=for-the-badge&color=C9A961" alt="Followers" />
-  <img src="https://img.shields.io/badge/Status-Open%20to%20Work-2ea44f?style=for-the-badge" alt="Status" />
+  <sub>
+    📧 <strong>Jonahkimwainaina@gmail.com</strong>
+    &nbsp;·&nbsp;
+    💼 <a href="https://www.linkedin.com/in/jonah-kimani-wainaina-4557a52b0/">LinkedIn</a>
+    &nbsp;·&nbsp;
+    🌐 <a href="https://jonahkimani.vercel.app">Portfolio</a>
+  </sub>
+</p>
+
+<p>
+  <img src="https://komarev.com/ghpvc/?username=Cjaycoddev&label=PROFILE+VIEWS&color=C9A961&style=for-the-badge" alt="Profile views" />
+  <img src="https://img.shields.io/github/followers/Cjaycoddev?label=FOLLOWERS&style=for-the-badge&color=C9A961&labelColor=0A0A0A" alt="Followers" />
 </p>
 
 </div>
@@ -183,14 +240,21 @@ A premium automotive dealership platform built for the Kenyan market.
 
 <p>
   <a href="https://jonahkimani.vercel.app">
-    <img src="https://img.shields.io/badge/🌐_Portfolio-Visit-C9A961?style=for-the-badge" alt="Portfolio" />
+    <img src="https://img.shields.io/badge/🌐_Portfolio-Visit-C9A961?style=for-the-badge&labelColor=0A0A0A" alt="Portfolio" />
   </a>
   <a href="https://www.linkedin.com/in/jonah-kimani-wainaina-4557a52b0/">
-    <img src="https://img.shields.io/badge/💼_LinkedIn-Connect-0A66C2?style=for-the-badge" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/💼_LinkedIn-Connect-0A66C2?style=for-the-badge&labelColor=0A0A0A" alt="LinkedIn" />
   </a>
   <a href="mailto:Jonahkimwainaina@gmail.com">
-    <img src="https://img.shields.io/badge/✉️_Email-Say_Hi-EA4335?style=for-the-badge" alt="Email" />
+    <img src="https://img.shields.io/badge/✉️_Email-Send-EA4335?style=for-the-badge&labelColor=0A0A0A" alt="Email" />
   </a>
+</p>
+
+<!-- Visible, copyable email fallback -->
+<p>
+  <sub>
+    📧 <strong>Jonahkimwainaina@gmail.com</strong>
+  </sub>
 </p>
 
 <br />
@@ -199,7 +263,7 @@ A premium automotive dealership platform built for the Kenyan market.
 
 <br />
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=C9A961&height=100&section=footer" alt="Footer wave" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:C9A961,100:000000&height=120&section=footer" alt="Footer wave" />
 
 </div>
 

@@ -58,12 +58,13 @@
 <br />
 
 <!-- ═══════════════════════════════════════════════════════════ -->
-<!--  CONNECT — text links, guaranteed clickable                 -->
+<!--  CONNECT BADGES — markdown image links, always clickable    -->
+<!--  Email uses Gmail web compose (no mail app required)        -->
 <!-- ═══════════════════════════════════════════════════════════ -->
 
-### 🌐 Connect
-
-[**Portfolio**](https://jonahkimani.vercel.app) &nbsp;·&nbsp; [**LinkedIn**](https://www.linkedin.com/in/jonah-kimani-wainaina-4557a52b0/) &nbsp;·&nbsp; [**Email Me**](mailto:Jonahkimwainaina@gmail.com) &nbsp;·&nbsp; [**GitHub**](https://github.com/Cjaycoddev)
+[![Portfolio](https://img.shields.io/badge/🌐_PORTFOLIO-Visit-C9A961?style=for-the-badge&labelColor=0A0A0A)](https://jonahkimani.vercel.app)
+[![LinkedIn](https://img.shields.io/badge/💼_LINKEDIN-Connect-0A66C2?style=for-the-badge&labelColor=0A0A0A)](https://www.linkedin.com/in/jonah-kimani-wainaina-4557a52b0/)
+[![Email](https://img.shields.io/badge/✉️_EMAIL-Send-EA4335?style=for-the-badge&labelColor=0A0A0A)](https://mail.google.com/mail/?view=cm&fs=1&to=Jonahkimwainaina@gmail.com&su=Hello%20Jonah)
 
 <br />
 
@@ -404,7 +405,7 @@ I specialize in **Web and Android development**, building scalable applications 
 
 [![Portfolio](https://img.shields.io/badge/🌐_PORTFOLIO-Visit-C9A961?style=for-the-badge&labelColor=0A0A0A)](https://jonahkimani.vercel.app)
 [![LinkedIn](https://img.shields.io/badge/💼_LINKEDIN-Connect-0A66C2?style=for-the-badge&labelColor=0A0A0A)](https://www.linkedin.com/in/jonah-kimani-wainaina-4557a52b0/)
-[![Email](https://img.shields.io/badge/✉️_EMAIL-Send-EA4335?style=for-the-badge&labelColor=0A0A0A)](mailto:Jonahkimwainaina@gmail.com)
+[![Email](https://img.shields.io/badge/✉️_EMAIL-Send-EA4335?style=for-the-badge&labelColor=0A0A0A)](https://mail.google.com/mail/?view=cm&fs=1&to=Jonahkimwainaina@gmail.com&su=Hello%20Jonah)
 
 <br />
 
@@ -422,7 +423,64 @@ I specialize in **Web and Android development**, building scalable applications 
 
 </div>
 
+---
 
+<!-- ============================================================ -->
+<!-- OPTIONAL SETUP: SNAKE ANIMATION                              -->
+<!-- ============================================================ -->
+
+## 🐍 Enable the Snake Animation (Optional)
+
+The snake animation "eats" your contribution graph. It requires a one-time GitHub Action.
+
+### Step 1: Create the workflow file
+
+In your profile repo (`Cjaycoddev/Cjaycoddev`), create:
+
+**`.github/workflows/snake.yml`**
+
+```yaml
+name: Generate Snake
+
+on:
+  schedule:
+    - cron: "0 0 * * *"
+  workflow_dispatch:
+  push:
+    branches:
+      - main
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - name: Generate snake
+        uses: Platane/snk/svg-only@v3
+        with:
+          github_user_name: Cjaycoddev
+          outputs: |
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark&color_snake=C9A961
+      - name: Push to output branch
+        uses: crazy-max/ghaction-github-pages@v3.1.0
+        with:
+          target_branch: output
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+```
+
+### Step 2: Run it once
+
+1. Go to your repo → **Actions** tab
+2. Click **Generate Snake** → **Run workflow**
+3. Wait ~30 seconds
+4. Refresh the README — the snake animation appears
+
+---
+
+<div align="center">
 
 **⭐ If you like what you see, star a repo or reach out!**
 

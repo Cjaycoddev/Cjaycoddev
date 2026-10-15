@@ -58,8 +58,7 @@
 <br />
 
 <!-- ═══════════════════════════════════════════════════════════ -->
-<!--  CONNECT BADGES — markdown image links, always clickable    -->
-<!--  Email uses Gmail web compose (no mail app required)        -->
+<!--  CONNECT BADGES — email uses Gmail compose (universal)      -->
 <!-- ═══════════════════════════════════════════════════════════ -->
 
 [![Portfolio](https://img.shields.io/badge/🌐_PORTFOLIO-Visit-C9A961?style=for-the-badge&labelColor=0A0A0A)](https://jonahkimani.vercel.app)
@@ -330,6 +329,20 @@ I specialize in **Web and Android development**, building scalable applications 
 
 ---
 
+## 🐍 Watch My Contributions Get Eaten
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Cjaycoddev/Cjaycoddev/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Cjaycoddev/Cjaycoddev/output/github-contribution-grid-snake.svg" />
+  <img alt="Snake animation eating my GitHub contributions" src="https://raw.githubusercontent.com/Cjaycoddev/Cjaycoddev/output/github-contribution-grid-snake-dark.svg" />
+</picture>
+
+</div>
+
+---
+
 ## 🎯 Featured Projects
 
 ### 🏁 VELOCE BESPOKE KENYA
@@ -422,61 +435,6 @@ I specialize in **Web and Android development**, building scalable applications 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:C9A961,100:000000&height=120&section=footer" alt="Footer wave" />
 
 </div>
-
----
-
-<!-- ============================================================ -->
-<!-- OPTIONAL SETUP: SNAKE ANIMATION                              -->
-<!-- ============================================================ -->
-
-## 🐍 Enable the Snake Animation (Optional)
-
-The snake animation "eats" your contribution graph. It requires a one-time GitHub Action.
-
-### Step 1: Create the workflow file
-
-In your profile repo (`Cjaycoddev/Cjaycoddev`), create:
-
-**`.github/workflows/snake.yml`**
-
-```yaml
-name: Generate Snake
-
-on:
-  schedule:
-    - cron: "0 0 * * *"
-  workflow_dispatch:
-  push:
-    branches:
-      - main
-
-jobs:
-  generate:
-    runs-on: ubuntu-latest
-    permissions:
-      contents: write
-    steps:
-      - name: Generate snake
-        uses: Platane/snk/svg-only@v3
-        with:
-          github_user_name: Cjaycoddev
-          outputs: |
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark&color_snake=C9A961
-      - name: Push to output branch
-        uses: crazy-max/ghaction-github-pages@v3.1.0
-        with:
-          target_branch: output
-          build_dir: dist
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-```
-
-### Step 2: Run it once
-
-1. Go to your repo → **Actions** tab
-2. Click **Generate Snake** → **Run workflow**
-3. Wait ~30 seconds
-4. Refresh the README — the snake animation appears
 
 ---
 
